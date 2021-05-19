@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_skin_": "s9324197d1af4b60ba7288b63bd79c76",
+    "_text_": "Enroll",
+    "_top_": {
+        "type": "string",
+        "value": "-25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s9c66581ebdd481caf25476d2f84dab6"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s9c66581ebdd481caf25476d2f84dab6",
+    "id": "btnEnrol",
+    "info": null,
+    "iphone": {
+        "right": {
+            "type": "string",
+            "value": "5%"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b54290118a384fdd8d983d36ee6d74b4",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "flxLoginWrapper",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 1
+}
